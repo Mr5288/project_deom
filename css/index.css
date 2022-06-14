@@ -6,6 +6,7 @@
     
     .w {
         width: 1200px;
+        min-width: 1200px;
         margin: auto;
     }
     
@@ -23,10 +24,12 @@
     
     header img {
         width: 100%;
+        min-width: 1200px;
     }
     
     nav {
         height: 52px;
+        min-width: 1200px;
         background-color: #015293;
     }
     
